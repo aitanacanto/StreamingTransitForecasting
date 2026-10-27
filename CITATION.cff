@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Please credit the full team and the accompanying academic paper when referring to this work."
+title: "Autoregressive Modelling for Streaming Time Series Data"
+type: software
+authors:
+  - given-names: "Christopher"
+    family-names: "Mayo"
+  - given-names: "Ryan"
+    family-names: "Manchester"
+  - given-names: "Bohui"
+    family-names: "Zhong"
+  - given-names: "Matthew"
+    family-names: "Rolleston"
+  - given-names: "Jayden"
+    family-names: "Litolff"
+  - given-names: "Aitana"
+    family-names: "Cantó Rico"
+date-released: 2025-06-18
+keywords:
+  - streaming time series
+  - passenger load forecasting
+  - CapyMOA
+  - public transport

@@ -1,0 +1,18 @@
+{
+  "validation_date": "2026-10-27",
+  "capymoa": "0.8.2",
+  "python": "3.12",
+  "java": "Temurin 17.0.17+10",
+  "table2_cases": 25,
+  "table2_cases_matching": 25,
+  "table2_metrics_matching": 50,
+  "table3_examples_matching": 6,
+  "table3_matching_date": "2024-04-05",
+  "table4_displayed_entries_matching": 20,
+  "table4_additional_small_nonzero_feature": {
+    "pm2_5": 1.9208120280129684e-05
+  },
+  "algorithms_corrected": false,
+  "method": "Original notebook definitions and evaluation blocks, isolated by experiment; file paths adapted for the curated layout.",
+  "scope": "Numerical reproduction of reported results, not independent confirmation of evaluation validity or exact byte identity with the historical submission."
+}

@@ -1,0 +1,4 @@
+# Verified scientific dependencies plus notebook UI tools.
+-r requirements-validation.txt
+jupyterlab>=4,<5
+ipykernel>=6,<8

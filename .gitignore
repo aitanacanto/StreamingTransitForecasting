@@ -1,0 +1,26 @@
+# Local environments and notebook state
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Credentials and local execution
+.env
+.env.*
+!.env.example
+*.log
+*.pkl
+*.pickle
+*.joblib
+outputs/*
+!outputs/.gitkeep
+
+# Original row-level health data are not part of this preview
+flu_dataset.csv
+salvador_dengue.csv
+data/private/
